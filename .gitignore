@@ -1,0 +1,9 @@
+*.pcm
+*.dump
+*.sublime-*
+build/*
+
+*.o
+*.cpp.d
+*.gch
+*.pch
