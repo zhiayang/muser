@@ -893,7 +893,12 @@ int main(int argc, char** argv)
 
 
 
-
+/*
+	links:
+	https://tools.ietf.org/html/rfc3550#section-5.1
+	https://tools.ietf.org/html/rfc5215#section-7.1.1
+	https://github.com/geeksville/Micro-RTSP/blob/master/src/CRtspSession.cpp
+*/
 
 
 
